@@ -2,3 +2,5 @@
 slide/
 slidev/
 fig/
+package-lock.json
+package.json
