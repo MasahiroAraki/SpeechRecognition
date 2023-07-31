@@ -10,3 +10,6 @@
 * スライド
 1. パターン認識って何？
 <iframe src="https://www.docswell.com/slide/58GW69/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+2. データをきちんと取り込もう
+<iframe src="https://www.docswell.com/slide/K7V466/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
