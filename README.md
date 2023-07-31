@@ -10,3 +10,5 @@
 * [スライド](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/slide)
 * [Scilab コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/scilab)
 * 参考 [Python コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/Python)
+
+<script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/58GW69/embed" data-aspect="0.5632"></script><div class="docswell-link"><a href="https://www.docswell.com/s/MasahiroAraki/58GW69-2023-07-31-092932"> 第1章 </a></div>
