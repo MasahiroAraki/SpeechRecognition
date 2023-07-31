@@ -11,4 +11,6 @@
 * [Scilab コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/scilab)
 * 参考 [Python コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/Python)
 
-<iframe src="https://www.docswell.com/slide/58GW69/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+* スライド
+  * 1. パターン認識って何？
+<iframe src="https://www.docswell.com/s/MasahiroAraki/58GW69-2023-07-31-092932" allowfullscreen="true" width="400" height="262" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; visibility: visible;"></iframe>
