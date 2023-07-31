@@ -11,4 +11,4 @@
 * [Scilab コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/scilab)
 * 参考 [Python コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/Python)
 
-<script async class="docswell-embed" src="https://www.docswell.com/assets/libs/docswell-embed/docswell-embed.min.js" data-src="https://www.docswell.com/slide/58GW69/embed" data-aspect="0.5632"></script><div class="docswell-link"><a href="https://www.docswell.com/s/MasahiroAraki/58GW69-2023-07-31-092932"> 第1章 </a></div>
+<iframe src="https://www.docswell.com/slide/58GW69/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
