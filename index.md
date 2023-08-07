@@ -1,7 +1,6 @@
-# 書籍の情報
+# フリーソフトでつくる音声認識システム（第2版）
 
 * 著者：荒木雅弘
-* 書名：フリーソフトでつくる音声認識システム（第2版）
 * 出版社：森北出版
 * 出版年：2017年
 * 出版社の公式ホームページ：[https://www.morikita.co.jp/books/mid/084712](https://www.morikita.co.jp/books/mid/084712)
@@ -10,7 +9,7 @@
           <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg"/>
 </a>
 
-# スライド
+# スライドと Jupyter Notebooks
 
 ## 1. パターン認識って何？
 * Jupyter Notebook: [chap01.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap01.ipynb)
