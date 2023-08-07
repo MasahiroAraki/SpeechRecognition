@@ -7,5 +7,6 @@
           <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg"/>
 </a>
 
-* [Scilab コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/scilab)
-* 参考 [Python コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/Python)
+* [正誤表](https://www.morikita.co.jp/books/mid/084712) ※出版社のHPにあります
+* 例題・演習問題等の [Scilab コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/scilab)
+* 参考）例題・演習問題等に関連する [Python コード](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/Python)

@@ -1,19 +1,25 @@
-# フリーソフトでつくる音声認識システム（第2版）
+# 書籍の情報
 
-* 荒木雅弘: 『フリーソフトでつくる音声認識システム（第2版）』（森北出版，2017年）
-* https://masahiroaraki.github.io/SpeechRecognition/
-
+* 著者：荒木雅弘
+* 書名：フリーソフトでつくる音声認識システム（第2版）
+* 出版社：森北出版
+* 出版年：2017年
+* 出版社の公式ホームページ：[https://www.morikita.co.jp/books/mid/084712](https://www.morikita.co.jp/books/mid/084712)
+* 書影  
 <a href="https://www.morikita.co.jp/books/mid/084712" target="_blank">
           <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg"/>
 </a>
 
-## スライド
+# スライド
 
-1. パターン認識って何？
-  * Jupyter Notebook: [chap01.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap01.ipynb)
+## 1. パターン認識って何？
+* Jupyter Notebook: [chap01.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap01.ipynb)
 <iframe src="https://www.docswell.com/slide/58GW69/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
-2. データをきちんと取り込もう
-  * Jupyter Notebook: [chap02.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap02.ipynb)
+## 2. データをきちんと取り込もう
+* Jupyter Notebook: [chap02.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap02.ipynb)
 <iframe src="https://www.docswell.com/slide/K7V466/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
+## 3. パターンの特徴を調べよう
+* Jupyter Notebook: [chap03.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap03.ipynb)
+<iframe src="https://www.docswell.com/slide/5VVMDX/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
