@@ -24,5 +24,5 @@
 <iframe src="https://www.docswell.com/slide/5VVMDX/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
 
 ## 4. パターンを識別しよう
-* Jupyter Notebook: [chap04.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap03.ipynb)
+* Jupyter Notebook: [chap04.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap04.ipynb)
 <iframe src="https://www.docswell.com/slide/Z24QVR/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
