@@ -26,3 +26,7 @@
 ## 4. パターンを識別しよう
 * Jupyter Notebook: [chap04.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap04.ipynb)
 <iframe src="https://www.docswell.com/slide/Z24QVR/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+## 5. 誤差をできるだけ小さくしよう
+* Jupyter Notebook: [chap05.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap05.ipynb)
+<iframe src="https://www.docswell.com/slide/5Q8X63/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
