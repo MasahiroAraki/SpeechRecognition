@@ -30,3 +30,7 @@
 ## 5. 誤差をできるだけ小さくしよう
 * Jupyter Notebook: [chap05.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap05.ipynb)
 <iframe src="https://www.docswell.com/slide/5Q8X63/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+## 6. 限界は破れるか（１）－ サポートベクトルマシン －
+* Jupyter Notebook: [chap06.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap06.ipynb)
+<iframe src="https://www.docswell.com/slide/598M47/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
