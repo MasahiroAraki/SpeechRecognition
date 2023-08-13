@@ -34,3 +34,7 @@
 ## 6. 限界は破れるか（１）－ サポートベクトルマシン －
 * Jupyter Notebook: [chap06.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap06.ipynb)
 <iframe src="https://www.docswell.com/slide/598M47/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+## 7. 限界は破れるか（２）－ ニューラルネットワーク －
+* Jupyter Notebook: [chap07.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap07.ipynb)
+<iframe src="https://www.docswell.com/slide/ZXY6M4/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
