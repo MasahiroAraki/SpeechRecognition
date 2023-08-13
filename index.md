@@ -38,3 +38,11 @@
 ## 7. 限界は破れるか（２）－ ニューラルネットワーク －
 * Jupyter Notebook: [chap07.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap07.ipynb)
 <iframe src="https://www.docswell.com/slide/ZXY6M4/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+## 8. 未知データを推定しよう － 統計的方法 －
+* Jupyter Notebook: [chap08.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap08.ipynb)
+<iframe src="https://www.docswell.com/slide/5DEWYW/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+## 9. 本当にすごいシステムができたの？
+* Jupyter Notebook: [chap09.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap09.ipynb)
+<iframe src="https://www.docswell.com/slide/KW1MJR/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
