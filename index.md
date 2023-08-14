@@ -4,9 +4,11 @@
 * 出版社：森北出版
 * 出版年：2017年
 * 出版社の公式ホームページ：[https://www.morikita.co.jp/books/mid/084712](https://www.morikita.co.jp/books/mid/084712)
+* 例題・演習問題に用いたScilabのソースコード [GitHub](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/scilab)
+* 参考） Python のソースコード [GitHub](https://github.com/MasahiroAraki/SpeechRecognition/tree/master/Python)
 * 書影  
 <a href="https://www.morikita.co.jp/books/mid/084712" target="_blank">
-          <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg"/>
+          <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg" style="border: 1px"/>
 </a>
 
 # スライドと Jupyter Notebooks
