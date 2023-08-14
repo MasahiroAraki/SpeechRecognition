@@ -4,7 +4,7 @@
 * スライド: https://masahiroaraki.github.io/SpeechRecognition/
 
 <a href="https://www.morikita.co.jp/books/mid/084712" target="_blank">
-          <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg"/>
+          <img src="https://www.morikita.co.jp/storage/images/cvr/084712cvr.jpg" style="border: 1px" />
 </a>
 
 * [正誤表](https://www.morikita.co.jp/books/mid/084712) ※出版社のHPにあります
