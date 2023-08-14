@@ -46,3 +46,6 @@
 ## 9. 本当にすごいシステムができたの？
 * Jupyter Notebook: [chap09.ipynb](https://github.com/MasahiroAraki/SpeechRecognition/blob/master/Python/chap09.ipynb)
 <iframe src="https://www.docswell.com/slide/KW1MJR/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+
+## 10-15. 実践編 ー 音声認識・音声対話 ー
+<iframe src="https://www.docswell.com/slide/ZM164N/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
